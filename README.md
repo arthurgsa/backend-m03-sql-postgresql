@@ -57,4 +57,6 @@ npm run dev
 
 ###### Backend Módulo 2: [API](https://github.com/arthurgsa/backend-m02-api)
 
+###### Backend Módulo 4: [Aprofundamentos](https://github.com/arthurgsa/backend-m04-aprofundamentos/)
+
 ###### tags: `backend` `módulo 3` `exercício de classe` `nodeJS` `api` `api rest` `SQL` `postgreSQL` `autenticação` `criptografia` `consultas SQL` `funções SQL` `conexão SQL NODE.js` `CRUD SQL` `beekeeper` `banco de dados` `database` `server` `internet`
