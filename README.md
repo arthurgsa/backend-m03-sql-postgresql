@@ -49,7 +49,7 @@ npm run dev
 
 #### Prints
 
-![Print](https://cdn.discordapp.com/attachments/482798090592714754/1164292285576527974/image.png?ex=6542aeb0&is=653039b0&hm=402b50fabef22762ef80510c14b27b74781ee1a8da0bdef5673824b5db3aaa6a&)
+![Print](https://img001.prntscr.com/file/img001/IErJ0g16RXCYNqdwEDzsBw.png)
 
 ##### :link: Links úteis
 
